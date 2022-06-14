@@ -14,6 +14,13 @@ Has collection of many web pages including Home, About Us, Contact, Blog, Buyer 
 User can know about Tractors information, Feautures, cost and offers through this website.
 Included the feedback Survey form to increase the scope of improvement
 
+- Interactive and responsive UI.
+- Has many graphical and visual innovative effects.
+- Have an aesthetically pleasing visual design and architecture.
+- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
+- User can know about health information through this website.
+- Included the feedback Survey form to increase the scope of improvement 
+
 # Screenshots
 
 ![Screenshot (2766)](https://user-images.githubusercontent.com/97442679/173600989-f508f59c-ccc6-4685-b88d-c3dba6c7a7db.png)
