@@ -7,18 +7,11 @@ Project Link - https://mahindratractor.azurewebsites.net/
 
 # Features and Functionalities 😃
 
-Interactive and responsive UI.
-Has many graphical and visual innovative effects.
-Have an aesthetically pleasing visual design and architecture.
-Has collection of many web pages including Home, About Us, Contact, Blog, Buyer Guide, Tractor Range and Online Showroom etc.
-User can know about Tractors information, Feautures, cost and offers through this website.
-Included the feedback Survey form to increase the scope of improvement
-
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, health topics and health related information etc.
-- User can know about health information through this website.
+- Has collection of many web pages including Home, About Us, Contact, Blog, Buyer Guide, Tractor Range and Online Showroom etc.
+- User can know about Tractors information, Feautures, cost and offers through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
 # Screenshots
@@ -30,9 +23,9 @@ Included the feedback Survey form to increase the scope of improvement
 ![Screenshot (2768)](https://user-images.githubusercontent.com/97442679/173601143-57d0e6a8-3849-4e90-b7e9-f7204392c0ac.png)
 
 # Tech Stack 💻
-Azure(Hosting)
-HTML
-CSS
-Bootstrap
-JavaScript
+- Azure(Hosting)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
 
