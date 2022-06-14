@@ -16,4 +16,12 @@ Included the feedback Survey form to increase the scope of improvement
 
 # Screenshots
 
-![image](https://user-images.githubusercontent.com/97442679/173599858-13a154d5-2b85-461f-ab06-f75aaa2fcd17.png)
+![Screenshot (2766)](https://user-images.githubusercontent.com/97442679/173600989-f508f59c-ccc6-4685-b88d-c3dba6c7a7db.png)
+![Screenshot (2767)](https://user-images.githubusercontent.com/97442679/173601078-c99aa503-56a8-4745-b947-f81d62132b36.png)
+![Screenshot (2769)](https://user-images.githubusercontent.com/97442679/173601101-b2ef6182-adfc-4541-8bbc-29dc82030e60.png)
+![Screenshot (2770)](https://user-images.githubusercontent.com/97442679/173601112-aaf5aed1-82a7-4604-994c-bd22b8fb21f4.png)
+![Screenshot (2768)](https://user-images.githubusercontent.com/97442679/173601143-57d0e6a8-3849-4e90-b7e9-f7204392c0ac.png)
+
+# Tech Stack 💻
+
+
