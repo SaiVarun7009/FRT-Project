@@ -23,5 +23,9 @@ Included the feedback Survey form to increase the scope of improvement
 ![Screenshot (2768)](https://user-images.githubusercontent.com/97442679/173601143-57d0e6a8-3849-4e90-b7e9-f7204392c0ac.png)
 
 # Tech Stack 💻
-
+Azure(Hosting)
+HTML
+CSS
+Bootstrap
+JavaScript
 
