@@ -22,6 +22,10 @@ Project Link - https://mahindratractor.azurewebsites.net/
 ![Screenshot (2770)](https://user-images.githubusercontent.com/97442679/173601112-aaf5aed1-82a7-4604-994c-bd22b8fb21f4.png)
 ![Screenshot (2768)](https://user-images.githubusercontent.com/97442679/173601143-57d0e6a8-3849-4e90-b7e9-f7204392c0ac.png)
 
+# Privacy Policy
+![Screenshot (2771)](https://user-images.githubusercontent.com/97442679/173627212-88659687-ea85-4550-84b5-172d7bd4a39b.png)
+
+
 # Tech Stack 💻
 - Azure(Hosting)
 - HTML
